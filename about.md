@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Studentka KISKu pracující na závěrečném úkolu.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jane.folkova@gmail.com](mailto:jane.folkova@gmail.com)

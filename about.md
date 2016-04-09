@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
 Studentka KISKu pracující na závěrečném úkolu.
